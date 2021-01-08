@@ -1,2 +1,2 @@
-# F0everdead
-For linux, puts @reboot sudo shutdown now. for windows moves a shutdown .bat file
+# 4everdeAd
+For linux,this program puts "@reboot sudo shutdown now" in the crontab. for Windows it moves a shutdown .bat file.
